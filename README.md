@@ -1,5 +1,10 @@
-# Deprecated
+# Independa
 
+Independa forking of original heroku buildpack that is no longer being maintained
+
+
+
+**********************************************************
 This project is deprecated and is no longer being maintained.
 
 Please fork it to your own account and update your `BUILDPACK_URL`
